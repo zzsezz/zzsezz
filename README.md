@@ -8,4 +8,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsezz%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=HEY&edge_flat=true)](https://hits.seeyoufarm.com)</div>
 
 </br>
- <a style="text-decoration: none;" target="_blank" href="https://www.instagram.com/zzsezz/">:link:</a>
+ <a style="text-decoration: !importantnone;" target="_blank" href="https://www.instagram.com/zzsezz/">:link:</a>
