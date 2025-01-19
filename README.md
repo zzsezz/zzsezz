@@ -11,5 +11,10 @@
 <!--  <a style="text-decoration: !important none;" target="_blank" href="https://www.instagram.com/zzsezz/">:link:</a>
   -->
 <div align="center">
-<p>재미따</p>
+<p> </p>
+</div>
+
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
 </div>
